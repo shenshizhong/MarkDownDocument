@@ -1,0 +1,17 @@
+# 表格
+
+year | month
+---- | ---
+2018 | 05
+2019 | 06
+
+
+|    name    | age |
+| ---------- | --- |
+| LearnShare |  12 |
+| Mike       |  32 |
+
+| left | center | right |
+| :--- | :----: | ----: |
+| aaaa | bbbbbb | ccccc |
+| a    | b      | c     |
